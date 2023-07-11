@@ -2,3 +2,4 @@ https://www.apachefriends.org/
 https://wordpress.org/download/
 https://sourceforge.net/projects/dvwa.mirror/
 https://github.com/digininja/DVWA
+http://vulnweb.com/
